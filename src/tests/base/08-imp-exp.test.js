@@ -1,5 +1,5 @@
-import { getHeroeById, getHeroesByOwner } from "../base/08-imp-exp";
-import heroes from "../data/heroes";
+import { getHeroeById, getHeroesByOwner } from "../../base/08-imp-exp";
+import heroes from "../../data/heroes";
 
 describe("Pruebas en funciones de heroes", () => {
     test("Debe retornar un heroe por id", () => {

@@ -1,4 +1,4 @@
-import { retornaArreglo } from "../base/07-deses-arr";
+import { retornaArreglo } from "../../base/07-deses-arr";
 
 describe("Pruebas en desestructuración", () => {
     test("Debe retornar un string y un numero", () => {

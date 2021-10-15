@@ -1,5 +1,5 @@
 import "@testing-library/jest-dom";
-import { getUser, getUsuarioActivo } from "../base/05-funciones";
+import { getUser, getUsuarioActivo } from "../../base/05-funciones";
 
 describe("Prueba en 05-funciones", () => {
     test("getUser debe retornar un objeto", () => {
