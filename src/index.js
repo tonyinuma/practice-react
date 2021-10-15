@@ -4,6 +4,6 @@ import "./index.css";
 import PrimeraApp from "./PrimeraApp";
 
 ReactDOM.render(
-    <PrimeraApp saludo={"Hola Tony"} />,
+    <PrimeraApp saludo={"Hola, Soy Goku"} />,
     document.getElementById("root")
 );
